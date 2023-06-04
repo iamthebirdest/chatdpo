@@ -27,5 +27,3 @@ Live Page: https://claude-legal-helper.bubbleapps.io/version-test/start
 ![3 - claude advice](https://github.com/iamthebirdest/chatdpo/assets/134289949/8aaec0c6-030a-4dfc-9bc3-1bfcc8fab533)
 ![3 - claude extract explain text](https://github.com/iamthebirdest/chatdpo/assets/134289949/570ab647-3d37-4fa7-88b0-786c6bcec77b)
 ![5 - claude redact](https://github.com/iamthebirdest/chatdpo/assets/134289949/0f4f66fc-cd3b-4161-987a-bcdef0f8a90b)
-![6 - backend design view](https://github.com/iamthebirdest/chatdpo/assets/134289949/fd2dc0de-3f61-40db-9792-165939e3dead)
-![6 - backend view](https://github.com/iamthebirdest/chatdpo/assets/134289949/5562a4bc-8693-47ea-a355-d033dcecdaaf)
